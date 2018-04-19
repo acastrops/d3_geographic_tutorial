@@ -26,13 +26,14 @@ path.cell {
 }
 
 .land {
-  fill: none;
-  stroke: lightgrey;
+  fill: blue; /*Question 1*/
+  stroke: red;
 }
 
 .state-boundary {
-  fill: none;
-  stroke: lightgrey;
+  fill: red;
+  stroke: white; /*Question 2*/
+  stroke-width: 0.7; /*Question 3*/
 }
 
 #cells.voronoi path.cell {
@@ -40,7 +41,7 @@ path.cell {
 }
 
 path {
-  fill: none;
+  fill: none; 
   stroke: none;
   stroke-linejoin: round;
   stroke-linecap: round;
