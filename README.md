@@ -1,7 +1,6 @@
 # Part 2: Changing out the Data
 
-![](https://github.com/acastrops/d3_geographic_tutorial/blob/master/Part_2_AddData/pt2_screenshot.png?raw=true)
-*serve the page to see the animated paths
+![](https://github.com/acastrops/d3_geographic_tutorial/blob/master/Part_2_AddData/pt2_map.gif?raw=true)
 
 Last week, we created a .csv with airport origins, destinations, and counts. This file required some cleaning to remove US airports not within the states. We have provided you with the resulting .csv, "filteredflights.csv".
 
